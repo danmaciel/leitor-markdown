@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+MimeType=text/markdown;text/x-markdown;inode/directory;
+Actions=abrirNoLeitorMarkdown;
+X-KDE-Priority=TopLevel
+
+[Desktop Action abrirNoLeitorMarkdown]
+Name=Abrir no Leitor Markdown
+Icon=text-markdown
+Exec=@EXEC@ %F
