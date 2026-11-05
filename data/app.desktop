@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Leitor Markdown
+GenericName=Leitor e Editor de Markdown
+Comment=Visualiza e edita arquivos Markdown com GFM, Mermaid, KaTeX e Live Reload
+Exec=@EXEC@ %F
+Icon=text-markdown
+Terminal=false
+Categories=Office;Viewer;TextEditor;Utility;
+MimeType=text/markdown;text/x-markdown;
+Keywords=markdown;md;leitor;viewer;mermaid;katex;
